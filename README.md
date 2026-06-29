@@ -167,8 +167,8 @@ src/
 ## 👥 Team
 
 - 
-- **Akshara P D** — Full-Stack Development
-- **Akashay K S** — Full-Stack Development
+- **Akshara P D** — Full-Stack Development, AI Integration & UI/UX
+- **Akashay K S** — Full-Stack Development, API Integration & Testing
 
 
 ---
